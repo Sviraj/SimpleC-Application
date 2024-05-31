@@ -21,3 +21,4 @@ Person person = new Person();
 person.name = "kamal";
 person.age = 45;
 Console.WriteLine(person.age);
+Console.WriteLine(person.name);
