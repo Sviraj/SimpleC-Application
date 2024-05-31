@@ -16,3 +16,4 @@ D:\Hadapu App\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.csproj.AssemblyRefere
 D:\Hadapu App\HelloWorldApp\bin\Debug\net8.0\PasswordGenerator.dll
 D:\Hadapu App\HelloWorldApp\obj\Debug\net8.0\HelloWor.7B0E6E17.Up2Date
 D:\Hadapu App\HelloWorldApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Hadapu App\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.sourcelink.json

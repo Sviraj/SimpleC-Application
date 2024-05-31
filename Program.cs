@@ -17,3 +17,7 @@ product.name = "Lux";
 product.price = "100";
  string json = JsonConvert.SerializeObject(product);
 Console.WriteLine(json);
+Person person = new Person();
+person.name = "kamal";
+person.age = 45;
+Console.WriteLine(person.age);
